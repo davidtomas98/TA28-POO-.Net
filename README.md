@@ -1,4 +1,4 @@
-﻿# Ejercicios de Programación Orientada a Objetos
+﻿# Ejercicios de Programación Orientada a Objetos 👨‍💻
 
 ## T10 – Herencia
 
@@ -22,13 +22,13 @@ En esta sección, se presentan una serie de ejercicios que te permitirán practi
 6. 📚 **Ejercicio 6 - Clase Libro:**
    Diseña una clase Libro para manejar información sobre libros, aplicando conceptos de encapsulamiento y métodos de acceso.
 
-7. 🔍 **Ejercicio 7 - Clase Raices:**
+7. 🧮 **Ejercicio 7 - Clase Raices:**
    Crea la clase Raices para resolver ecuaciones de segundo grado, calculando discriminantes y obteniendo soluciones.
 
 8. 🏫 **Ejercicio 8 - Aula con Estudiantes y Profesor:**
    Modela un aula con estudiantes y un profesor, simulando la asistencia a clases y validando las condiciones para dar clase.
 
-9. 🎬 **Ejercicio 9 - Programa para Cine:**
+9. 🎞️ **Ejercicio 9 - Programa para Cine:**
    Implementa un programa orientado a objetos para simular un cine, gestionando asientos y espectadores de manera aleatoria.
 
 10. 🍿 **Ejercicio 10 - Simulación de Cine:**
