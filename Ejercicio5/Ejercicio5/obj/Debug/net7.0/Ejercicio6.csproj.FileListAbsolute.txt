@@ -1,0 +1,14 @@
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\bin\Debug\net7.0\Ejercicio6.exe
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\bin\Debug\net7.0\Ejercicio6.deps.json
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\bin\Debug\net7.0\Ejercicio6.runtimeconfig.json
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\bin\Debug\net7.0\Ejercicio6.dll
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\bin\Debug\net7.0\Ejercicio6.pdb
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\obj\Debug\net7.0\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\obj\Debug\net7.0\Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\obj\Debug\net7.0\Ejercicio6.AssemblyInfo.cs
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\obj\Debug\net7.0\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\obj\Debug\net7.0\Ejercicio6.dll
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\obj\Debug\net7.0\refint\Ejercicio6.dll
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\obj\Debug\net7.0\Ejercicio6.pdb
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\obj\Debug\net7.0\Ejercicio6.genruntimeconfig.cache
+C:\Users\david.tomas\C4\TA28\TA28-POO-.Net\Ejercicio6\Ejercicio6\obj\Debug\net7.0\ref\Ejercicio6.dll
